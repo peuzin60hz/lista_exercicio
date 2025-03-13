@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "typescript-require": "^0.3.0"
+  }
+}
